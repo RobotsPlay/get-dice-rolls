@@ -1,0 +1,28 @@
+{
+  "name": "get-dice-roll",
+  "version": "1.0.0",
+  "description": "Get dice roll values",
+  "main": "getDiceRolls.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RobotsPlay/get-dice-rolls.git"
+  },
+  "keywords": [
+    "random",
+    "dice",
+    "rolls"
+  ],
+  "author": "John Graham @RobotsPlay",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/RobotsPlay/get-dice-rolls/issues"
+  },
+  "homepage": "https://github.com/RobotsPlay/get-dice-rolls#readme",
+  "dependencies": {
+    "random": "^3.0.6",
+    "seedrandom": "^3.0.5"
+  }
+}
